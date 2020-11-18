@@ -1,0 +1,25 @@
+---
+layout: post
+title: Markdown Style Guide
+---
+
+This is a paragraph. Yayyyyy! So excited. 
+
+![this is an image](https://thaisalvarenga.github.io/images/avatar.jpg)
+
+[This is my github link](https://github.com/thaisalvarenga).
+
+- First item
+- Second item
+- Third item
+
+1. an
+2. ordered
+3. list 
+
+```
+var name = "jane";
+```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uZj0Mbb8l60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
